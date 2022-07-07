@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yashaskara
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning React.JS, python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
