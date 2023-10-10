@@ -9,7 +9,7 @@
 
 <hr>  
 
-- 💬 Ask me about **PIM, SaaS Product Development Lifecycle, and CI-CD**.
+- 💬 Ask me about **Python, React, and JS**.
 
 <hr>
 <h3 align="center">Languages and Tools:</h3>
