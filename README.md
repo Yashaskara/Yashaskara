@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @Yashaskara
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning React.JS, python
-
 <h1 align="center">Hi 👋, I'm Yashaskara Jois K R</h1>
 <p align="center">Senior Software Engineer</p>
 <hr>
