@@ -10,10 +10,11 @@ Senior Software Engineer at Netcore (Unbxd), Bengaluru. I build AI agent infrast
 
 ## Stack
 
-Python, Node.js, TypeScript, React, Next.js, MCP, BigQuery, GCP
+Python, FastAPI, Node.js, TypeScript, React, Next.js, MCP, BigQuery, GCP
 
 ## Public repos
 
+- [partner-eval (Anvaya)](https://github.com/Yashaskara/partner-eval): a full-stack LLM evaluation app I built solo. It scores compatibility across 12 life domains through a pluggable provider layer (Claude, OpenAI, Gemini), computes the final rank deterministically, and ships with per-user token limits, an admin dashboard, tests, and CI. [Live demo](https://potential-partner-eval.vercel.app) (invite-only sign-in).
 - [my-first-mcp](https://github.com/Yashaskara/my-first-mcp): a learning project covering the three MCP primitives (tools, resources, prompts), with a Claude-powered CLI chatbot as the client.
 - [auction-website](https://github.com/Yashaskara/auction-website): a real-time multiplayer cricket auction app in Next.js and TypeScript, with admin, auctioneer, team owner, and spectator roles.
 - [react-search-sdk-demo](https://github.com/Yashaskara/react-search-sdk-demo): a minimal React app demonstrating a search SDK integration.
@@ -22,7 +23,6 @@ Python, Node.js, TypeScript, React, Next.js, MCP, BigQuery, GCP
 ## In progress
 
 - A multi-agent fact-checking system.
-- Anvaya, an LLM-based decision-support app.
 
 ## Find me
 
